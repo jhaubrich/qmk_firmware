@@ -66,7 +66,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  * |------+------+------+------+------+------|------+------+------+------+------+------|
  * | Shift|   Z  |   X  |   C  |   V  |   B  |   K  |   M  |   ,  |   .  |   /  |Shift |
  * |------+------+------+------+------+------+------+------+------+------+------+------|
- * | ESC  | GUI  | Alt  | Ctrl |Lower |Enter |Space |Raise | Alt  | VolD | VolU | RGUI |
+ * | ESC  | Ctrl | GUI  | Alt  |Lower |Enter |Space |Raise | Alt  | VolD | VolU | RGUI |
  * `-----------------------------------------------------------------------------------'
  */
 [_COLEMAK] = {
@@ -108,7 +108,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  * |------+------+------+------+------+------|------+------+------+------+------+------|
  * | Shift|   ;  |   Q  |   J  |   K  |   X  |   B  |   M  |   W  |   V  |   Z  |Shift |
  * |------+------+------+------+------+------+------+------+------+------+------+------|
- * | ESC  | GUI  | Alt  | Ctrl |Lower |Enter |Space |Raise | Alt  | VolD | VolU | RGUI |
+ * | ESC  | Ctrl | GUI  | Alt  |Lower |Enter |Space |Raise | Alt  | VolD | VolU | RGUI |
  * `-----------------------------------------------------------------------------------'
  */
 [_DVORAK] = {
